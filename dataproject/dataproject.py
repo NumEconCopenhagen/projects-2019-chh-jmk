@@ -25,6 +25,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import datetime as datetime
 import pandas_datareader
+import numpy as np
 import ipywidgets as widgets
 
 #%% [markdown]
