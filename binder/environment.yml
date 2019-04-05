@@ -23,4 +23,15 @@ dependencies:
       - yapf
       - pandas_datareader
 
+jupyter labextension install \
+    @ijmbarr/jupyterlab_spellchecker \
+    @jupyterlab/latex \
+    @jupyterlab/statusbar \
+    @jupyterlab/toc \
+    @ryantam626/jupyterlab_code_formatter \
+    jupyter-matplotlib \
+    https://github.com/elben10/jupyterlab-variableInspector
+    
+jupyter serverextension enable jupyterlab_code_formatter
+
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
