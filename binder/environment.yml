@@ -21,7 +21,7 @@ dependencies:
       - jupyterlab-solutions
       - numecon
       - yapf
-      - pandas_datareader
+      - pandas_datareader;
 
 jupyter labextension install \
     @ijmbarr/jupyterlab_spellchecker \
