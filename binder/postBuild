@@ -3,6 +3,7 @@ jupyter labextension install \
     @jupyterlab/latex \
     @jupyterlab/statusbar \
     @jupyterlab/toc \
+    @jupyter-widgets/jupyterlab-manager \
     @ryantam626/jupyterlab_code_formatter \
     jupyter-matplotlib \
     https://github.com/elben10/jupyterlab-variableInspector
