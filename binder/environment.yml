@@ -22,5 +22,5 @@ dependencies:
       - numecon
       - yapf
       - pandas_datareader
-      
+
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
