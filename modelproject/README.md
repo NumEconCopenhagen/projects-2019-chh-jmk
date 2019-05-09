@@ -6,4 +6,4 @@ There are no packages needed besides the ones installed through the guides in th
 In this project we start by construction a framework for sovling consumer problems and social optima.
 Later we solve the maximaztion problem of firms. 
 
-Test
+Endnu en test
