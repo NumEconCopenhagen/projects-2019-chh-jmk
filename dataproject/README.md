@@ -1,13 +1,8 @@
 # Dataproject
 
-Our project has been placed in the folder above and has been named dataproject. The dataproject contains an interactive part, and we therefore normally recommend that you open the file in jupyter lab. However the widgets don't display when testing it.
 
-(https://hub.mybinder.org/user/numeconcopenhag-ts-2019-chh-jmk-e8d4gk0w/lab)
-
-Therefore you should open it via Jupyter lab using Anaconda og run the codes.
-Download the files, open jupyter lab using anaconda, locate the downloaded file in "projects-2019-chh-jmk-master" -> 
-"dataproject" ->  "dataproject.ipynb".
+You should open the project via Jupyter lab using Anaconda og run the codes. pandas_datareader is required to import some of the data, which should be already installed if you followed this course. It can be installed in the prompt by sending "pip install pandas-datareader".
 
 
 The project itself contains a descriptive analysis of the three largest energy companies in the world, Shell, Exxon and Chevron.
-We compare the companies on the stock market in the period between 2016(1,1) and 2019(3,20).
+We compare the companies on the stock market in the period between 1st of January 2016 and 20th of March 2019. We also create a proxy for the market based on the average of the three firms, so the generel trend is illustrated as well. Apart from this we include the oil prices downloaded from FRED to have another energy-based market dataset to compare to.
