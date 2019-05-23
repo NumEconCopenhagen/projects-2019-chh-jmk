@@ -6,4 +6,4 @@ There are no packages needed besides the ones installed through the guides in th
 In this project we start by construction a framework for sovling consumer problems and social optima.
 Later we solve the maximaztion problem of a firm.
 
-Both problems can be interacted with, such that the reader can choose with problems to consider.
+Both problems can be interacted with, such that the reader can choose which problems to consider.
